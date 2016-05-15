@@ -30,7 +30,6 @@ $(document).ready(function(){
         {
             alert("You can enter the website");
             window.location.href = "/html/redirect.html";
-        }
-    });
+     }
 });
-
+});
